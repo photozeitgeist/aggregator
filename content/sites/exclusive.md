@@ -1,5 +1,5 @@
 ---
-name: Exclusive.org
+name: Exclusive
 url: https://exclusive.org/
 feed: https://exclusive.org/feed
 # disable: true # skip processing this feed entirely
