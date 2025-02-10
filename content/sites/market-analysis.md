@@ -1,7 +1,6 @@
 ---
 name: Market Analysis
 url: https://marketanalysis.com/
-avatar: 
 feed: https://marketanalysis.com/feed
 # disable: true # skip processing this feed entirely
 # feedType: json # specify this ONLY if you want to use a JSON feed - defaults to RSS / Atom
