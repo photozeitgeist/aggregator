@@ -1,10 +1,10 @@
 const packageJson = require("../../package.json");
 
 module.exports = {
-  title: "Multiplicity",
-  description: "Eleventy-based RSS/JSON feed aggregator template",
-  author: "Multiple Authors",
-  url: "https://67a9aebd41235a0fae86bff7--courageous-youtiao-8c2b7e.netlify.app/",
+  title: "Syndicator.net",
+  description: "A Gateway to Seamless Content Distribution: RSS/JSON feed aggregator.",
+  author: "",
+  url: "https://syndicator.net/",
   github: {
     project: "https://github.com/lwojcik/eleventy-template-multiplicity",
   },
