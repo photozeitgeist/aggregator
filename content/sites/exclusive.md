@@ -1,7 +1,6 @@
 ---
 name: Exclusive.org
 url: https://exclusive.org/
-avatar: 
 feed: https://exclusive.org/feed
 # disable: true # skip processing this feed entirely
 # feedType: json # specify this ONLY if you want to use a JSON feed - defaults to RSS / Atom
