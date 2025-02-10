@@ -1,7 +1,6 @@
 ---
 name: Domain Market Research
 url: https://domainmarketresearch.com/
-avatar: 
 feed: https://domainmarketresearch.com/feed
 # disable: true # skip processing this feed entirely
 # feedType: json # specify this ONLY if you want to use a JSON feed - defaults to RSS / Atom
