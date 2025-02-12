@@ -15,7 +15,7 @@ module.exports = async () => {
           name,
           siteUrl,
           url: link,
-          avatar,
+    <!--         avatar, -->
           published,
           title,
           description,
