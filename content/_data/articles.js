@@ -1,15 +1,15 @@
 const fetchAllFeeds = require("../../_11ty/api/allFeeds");
-const fetchAvatars = require("../../_11ty/helpers/fetchAvatars");
+<!-- const fetchAvatars = require("../../_11ty/helpers/fetchAvatars"); -->
 const validateFeedEntry = require("../../_11ty/helpers/validateFeedEntry");
 
 module.exports = async () => {
   const allFeeds = await fetchAllFeeds();
-  const avatarNames = await fetchAvatars(allFeeds);
+<!--  const avatarNames = await fetchAvatars(allFeeds); -->
 
   return allFeeds
     .map(({ file, name, url: siteUrl, articles }) =>
       articles.map(({ title, published, link, description }) => {
-        const avatar = avatarNames.find(({ name }) => name === file).url;
+  <!--      const avatar = avatarNames.find(({ name }) => name === file).url; -->
 
         const item = {
           name,
