@@ -11,6 +11,7 @@ module.exports = {
   menu: {
     sites: "Sites",
     about: "About",
+    news: "News Syndication",
     rss: "RSS",
     toggleTheme: "Toggle theme",
   },
