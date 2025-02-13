@@ -32,3 +32,4 @@ module.exports = async () => {
     .map((item) => item)
     .sort((a, b) => new Date(b.published) - new Date(a.published));
 };
+
