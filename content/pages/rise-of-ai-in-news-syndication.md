@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Rise of AI in News Syndication How Machine Learning is Transforming Media Distribution
+title: The Rise of AI in News Syndication - How Machine Learning is Transforming Media Distribution
 eleventyExcludeFromCollections: true
 permalink: /rise-of-ai-in-news-syndication/
 canonical: /rise-of-ai-in-news-syndication/
