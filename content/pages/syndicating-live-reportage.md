@@ -1,4 +1,10 @@
-Seamless Integration: Syndicating Live Reportage from a Global Travel Trade Show
+---
+layout: page
+title: Seamless Integration: Syndicating Live Reportage from a Global Travel Trade Show
+eleventyExcludeFromCollections: true
+permalink: /syndicating-live-reportage/
+canonical: /syndicating-live-reportage/
+---
 
 Capturing the energy of a bustling travel trade show requires a blend of agile reporting and thoughtful distribution, where every snapshot and soundbite contributes to a broader narrative that spans continents and cultures. The image above offers a vivid glimpse into this dynamic environment, featuring Japanese attendees dressed in traditional kimonos who interact with modern exhibitors, while a Malta tourism booth stands out in the background, underscoring the event’s global reach and the intricate dialogue between heritage and modernity. The convergence of traditional attire and contemporary branding encapsulates the spirit of international travel, inviting viewers to experience firsthand the vibrant exchange of ideas, traditions, and business opportunities that define such gatherings.
 
