@@ -1,6 +1,6 @@
 ---
-layout: page
-title: AI vs. Human Editors: Who Curates News Better in the Age of Automation?
+layout: post
+title: AI vs. Human Editors - Who Curates News Better in the Age of Automation?
 eleventyExcludeFromCollections: true
 permalink: /ai-vs-human-editors/
 canonical: /ai-vs-human-editors/
