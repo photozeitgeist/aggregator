@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seamless Integration: Syndicating Live Reportage from a Global Travel Trade Show
+title: Syndicating Live Reportage from a Global Travel Trade Show
 eleventyExcludeFromCollections: true
 permalink: /syndicating-live-reportage/
 canonical: /syndicating-live-reportage/
