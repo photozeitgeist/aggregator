@@ -14,6 +14,7 @@ module.exports = {
     advertise: "Advertise",
     blog: "Blog",
     rss: "RSS",
+    contact: "Contact",
     toggleTheme: "Toggle theme",
   },
   skip_to_main_content: "Skip to main content",
