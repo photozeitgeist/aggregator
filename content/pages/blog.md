@@ -6,7 +6,7 @@ permalink: /blog/
 canonical: /blog/
 ---
 
-- [Amplifying Your Voice Through Content Syndication](https://syndicator.net/amplifying-your-voice/)
+- [The Quiet Power of Photo Content](https://syndicator.net/photo-content-syndication/)
 - [Syndicating Live Reportage from a Global Travel Trade Show](https://syndicator.net/syndicating-live-reportage/)
 - [AI vs. Human Editors - Who Curates News Better in the Age of Automation?](https://syndicator.net/ai-vs-human-editors/)
 - [News Syndication, A Conduit for the Flow of Information](https://syndicator.net/news-syndication/)
